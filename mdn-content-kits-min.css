@@ -1,0 +1,21 @@
+* {
+  background-color: #2365A2;
+
+}
+
+body {
+  color: #FFFFFF;
+  background: url("mdn_logo.gif");
+}
+
+a {
+  color: #FFFFFF;
+}
+
+
+#logo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 200px;
+}
